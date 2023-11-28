@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.todo{
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  background-color: rgb(211, 133, 133);
+  height: 100vh;
+ 
+}
+input, button, p{
+  padding: 10px;
+  border-radius: 20px;
+}
+p{
+  background-color: azure;
+  min-width: 200px;
+  margin: auto;
+  display: inline-block;
+}
+.todo2{
+  text-align: center;
+}
+button{
+  background-color: black;
+  color: yellowgreen;
+}
